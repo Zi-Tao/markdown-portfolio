@@ -4,10 +4,11 @@
 **Bold**
 
 *Italic*
+_Italic_
 
 ~~Strilethrough~~
 
-**Bold and *nested italic***
+**Bold and _nested italic_**
 
 ***All bold and italic***
 
